@@ -31,7 +31,7 @@
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caioferrari04&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="caioferrari04" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=caioferrari04&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="caioferrari04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caioferrari04&show_icons=true&theme=synthwave&locale=en" alt="caioferrari04" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=caioferrari04&show_icons=true&theme=synthwave&locale=en" alt="caioferrari04" /></p>
 
