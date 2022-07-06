@@ -35,5 +35,5 @@
 
 <p><img align="left" height="160em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs?username=caioferrari04&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="caioferrari04" /></p>
 
-<p>&nbsp;<img align="center" height="160em" width="320em" src="https://github-readme-stats.vercel.app/api?username=caioferrari04&show_icons=true&theme=synthwave&locale=en" alt="caioferrari04" /></p>
+<p>&nbsp;<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=caioferrari04&show_icons=true&theme=synthwave&locale=en" alt="caioferrari04" /></p>
 
